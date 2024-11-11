@@ -7,7 +7,7 @@ import re
 
 import os
 import re
-os.environ['OPENAI_API_KEY'] = 'sk-proj-hmz1mibKryeD1zjm6ZqDT3BlbkFJcytQhvZNwl9oxWwoqaUu'
+os.environ['OPENAI_API_KEY'] = ''
 
 
 
